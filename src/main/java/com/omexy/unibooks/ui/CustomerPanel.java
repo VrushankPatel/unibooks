@@ -1,4 +1,7 @@
-package com.omexy.unibooks;
+package com.omexy.unibooks.ui;
+
+import com.omexy.unibooks.model.Customer;
+import com.omexy.unibooks.eventhandler.CustomerListener;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;

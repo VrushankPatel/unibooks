@@ -1,4 +1,17 @@
-package com.omexy.unibooks;
+package com.omexy.unibooks.main;
+
+import com.omexy.unibooks.ui.CustomerPanel;
+import com.omexy.unibooks.ui.VendorPanel;
+import com.omexy.unibooks.ui.InvoicePanel;
+import com.omexy.unibooks.ui.ExpensePanel;
+import com.omexy.unibooks.ui.ReportingPanel;
+import com.omexy.unibooks.ui.TitleBarPanel;
+import com.omexy.unibooks.ui.ThemeManager;
+import com.omexy.unibooks.model.Invoice;
+import com.omexy.unibooks.model.Expense;
+import com.omexy.unibooks.eventhandler.CustomerListener;
+import com.omexy.unibooks.eventhandler.VendorListener;
+
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,4 +1,4 @@
-package com.omexy.unibooks;
+package com.omexy.unibooks.ui;
 
 import javax.swing.*;
 import java.awt.*;

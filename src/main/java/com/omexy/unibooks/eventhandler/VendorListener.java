@@ -1,4 +1,4 @@
-package com.omexy.unibooks;
+package com.omexy.unibooks.eventhandler;
 
 import java.util.List;
 

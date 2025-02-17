@@ -1,4 +1,7 @@
-package com.omexy.unibooks;
+package com.omexy.unibooks.ui;
+
+import com.omexy.unibooks.model.Invoice;
+import com.omexy.unibooks.eventhandler.CustomerListener;
 
 import com.toedter.calendar.JDateChooser;
 import javax.swing.*;

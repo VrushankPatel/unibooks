@@ -1,4 +1,4 @@
-package com.omexy.unibooks;
+package com.omexy.unibooks.model;
 
 public class Vendor {
     private String vendorId;
